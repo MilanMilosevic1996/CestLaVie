@@ -120,12 +120,12 @@ body {
 }
 
 ::selection {
-  background: #08B1A9;
+  background: #16878c;
   color: #020012;
 }
 
 ::-moz-selection {
-  background: #08B1A9;
+  background: #16878c;
   color: #020012;
 }
 
@@ -174,7 +174,7 @@ body {
 .section-heading h6 {
   position: relative;
   font-size: 15px;
-  color: #08B1A9;
+  color: #16878c;
   font-weight: 500;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -188,7 +188,7 @@ body {
   position: absolute;
   left: 0;
   top: 8px;
-  background-color: #08B1A9;
+  background-color: #16878c;
 }
 
 .section-heading h2 {
@@ -223,11 +223,11 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #08B1A9!important;
+  color: #16878c!important;
 }
 
 .background-header .nav li a.active {
-  color: #08B1A9!important;
+  color: #16878c!important;
 }
 
 .header-area {
@@ -318,12 +318,12 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #08B1A9!important;
+  color: #16878c!important;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #08B1A9!important;
+  color: #16878c!important;
   opacity: 1;
 }
 
@@ -385,7 +385,7 @@ header
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #020012;
-  color: #08B1A9!important;
+  color: #16878c!important;
   padding-left: 25px;
 }
 
@@ -525,7 +525,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #08B1A9;
+  color: #16878c;
 }
 
 @media (max-width: 1200px) {
@@ -544,7 +544,7 @@ header
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #08B1A9!important;
+    color: #16878c!important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -602,7 +602,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #08B1A9!important;
+    color: #16878c!important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
@@ -763,7 +763,7 @@ banner
   right:30px;
   width: 50px;
   height: 50px;
-  background-color: #08B1A9;
+  background-color: #16878c;
   border:0 none;
   line-height: 44px;
   border-radius: 50%;
@@ -792,7 +792,7 @@ banner
   left:30px;
   width: 50px;
   height: 50px;
-  background-color: #08B1A9;
+  background-color: #16878c;
   border:0 none;
   line-height: 44px;
   border-radius: 50%;
@@ -887,7 +887,7 @@ about
   display: inline-block;
   line-height: 70px;
   text-align: center;
-  background-color: #08B1A9;
+  background-color: #16878c;
   color: #020012;
   border-radius: 50%;
   transform: translate(-35px, -35px);
@@ -944,8 +944,8 @@ menu
 .info {
   position: relative;
   width: 100%;
-  background-color: #08B1A9;
-  border: 1px solid #08B1A9;
+  background-color: #16878c;
+  border: 1px solid #16878c;
   transform: translateY(100%)
   translateY(120px)
   translateZ(0);
@@ -974,7 +974,7 @@ menu
   position: absolute;
   width: 70px;
   height: 70px;
-  background-color: #08B1A9;
+  background-color: #16878c;
   font-size: 20px;
   font-weight: 700;
   color: #020012;
@@ -1018,7 +1018,7 @@ menu
 #menu .owl-nav .owl-prev:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #08B1A9;
+  color: #16878c;
   font-size: 25px;
   font-weight: 700;
   content: '\f104';
@@ -1050,7 +1050,7 @@ menu
 #menu .owl-nav .owl-next:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #08B1A9;
+  color: #16878c;
   font-size: 25px;
   font-weight: 700;
   content: '\f105';
@@ -1088,11 +1088,11 @@ chefs
 }
 
 #chefs .chef-item:hover {
-  border-color: #08B1A9;
+  border-color: #16878c;
 }
 
 #chefs .chef-item:hover .down-content h4 {
-  color: #08B1A9;
+  color: #16878c;
 }
 
 #chefs .chef-item .thumb {
@@ -1149,7 +1149,7 @@ chefs
 }
 
 #chefs .chef-item .thumb ul.social-icons li a:hover {
-  background-color: #08B1A9;
+  background-color: #16878c;
 }
 
 #chefs .chef-item:hover .overlay {
@@ -1214,11 +1214,11 @@ galerija
 }
 
 #galerija .galery-item:hover {
-  border-color: #08B1A9;
+  border-color: #16878c;
 }
 
 #galerija .galery-item:hover .down-content h4 {
-  color: #08B1A9;
+  color: #16878c;
 }
 
 #galerija .galery-item .thumb {
@@ -1275,7 +1275,7 @@ galerija
 }
 
 #galerija .galery-item .thumb ul.social-icons li a:hover {
-  background-color: #08B1A9;
+  background-color: #16878c;
 }
 
 #galerija .galery-item:hover .overlay {
@@ -1319,7 +1319,7 @@ reservation
 }
 
 #reservation .section-heading h6 {
-  color: #08B1A9;
+  color: #16878c;
 }
 
 #reservation .section-heading h2 {
@@ -1362,7 +1362,7 @@ reservation
   text-align: center;
   line-height: 70px;
   color: #020012;
-  background-color: #08B1A9;
+  background-color: #16878c;
   border-radius: 50%;
   font-size: 24px;
   margin-top: -35px;
@@ -1389,7 +1389,7 @@ reservation
 
 #reservation .phone span a:hover,
 #reservation .message span a:hover {
-  color: #08B1A9;
+  color: #16878c;
 }
 
 #contact {
@@ -1435,14 +1435,14 @@ reservation
 .contact-form input:focus,
 .contact-form textarea:focus,
 .contact-form select:focus {
-  border-color: #08B1A9;
+  border-color: #16878c;
 }
 
 .contact-form button {
   margin-top: -10px;
   font-size: 13px;
   color: #020012;
-  background-color: #08B1A9;
+  background-color: #16878c;
   padding: 12px 25px;
   width: 100%;
   box-shadow: none;
@@ -1534,7 +1534,7 @@ offers
   margin: 0 auto 15px auto;
 }
 #offers #tabs ul .ui-tabs-active a {
-  color: #08B1A9;
+  color: #16878c;
   position: relative;
 }
 #offers #tabs ul .ui-tabs-active span {
@@ -1584,7 +1584,7 @@ offers
   right: 0;
   width: 70px;
   height: 70px;
-  background-color: #08B1A9;
+  background-color: #16878c;
   display: inline-block;
   text-align: center;
   line-height: 70px;
@@ -1604,7 +1604,7 @@ footer
 footer {
   margin-top: 60px;
   padding: 50px 0px;
-  background-color: #08B1A9;
+  background-color: #16878c;
 }
 
 footer .left-text-content p {
@@ -1649,7 +1649,7 @@ footer .right-text-content ul li a {
   font-size: 20px;
   background-color: #020012;
   border-radius: 50%;
-  color: #08B1A9;
+  color: #16878c;
   -webkit-transition: all 0.5s ease 0s;
   -moz-transition: all 0.5s ease 0s;
   -o-transition: all 0.5s ease 0s;
@@ -1726,7 +1726,7 @@ responsive
 
 #preloader {
   overflow: hidden;
-  background-color: #08B1A9;
+  background-color: #16878c;
   left: 0;
   right: 0;
   top: 0;
