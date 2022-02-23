@@ -105,7 +105,7 @@ ul {
 p {
   font-size: 14px;
   line-height: 25px;
-  color: #bcd6e3;
+  color: #e2dacf;
 }
 
 /* 
@@ -147,7 +147,7 @@ body {
 
 .main-white-button a {
   font-size: 13px;
-  color: #bcd6e3;
+  color: #e2dacf;
   background-color: #020012;
   padding: 12px 25px;
   display: inline-block;
@@ -197,7 +197,7 @@ body {
   margin-bottom: 25px; 
   font-size: 30px;
   font-weight: 900;
-  color: #bcd6e3;
+  color: #e2dacf;
 }
 
 
@@ -214,12 +214,12 @@ header
   top: 0px;
   left: 0px;
   right: 0px;
-  box-shadow: 0px 0px 10px #bcd6e3!important;
+  box-shadow: 0px 0px 10px #e2dacf!important;
 }
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #bcd6e3!important;
+  color: #e2dacf!important;
 }
 
 .background-header .main-nav .nav li:hover a {
@@ -297,7 +297,7 @@ header
   display: block;
   font-weight: 600;
   font-size: 15px;
-  color: #bcd6e3;
+  color: #e2dacf;
   text-transform: capitalize;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -310,7 +310,7 @@ header
 }
 
 .header-area .main-nav .nav li a {
-  color: #bcd6e3;
+  color: #e2dacf;
 }
 .header-area .main-nav .nav li #konk {
   color: #5d22cb!important;
@@ -336,20 +336,20 @@ header
   font-family: FontAwesome;
   content: "\f107";
   font-size: 12px;
-  color: #bcd6e3;
+  color: #e2dacf;
   position: absolute;
   right: 18px;
   top: 12px;
 }
 
 .background-header .main-nav .nav li.submenu:after {
-  color: #bcd6e3;
+  color: #e2dacf;
 }
 
 .header-area .main-nav .nav li.submenu ul {
   position: absolute;
   width: 200px;
-  box-shadow: 0 2px 28px 0 #bcd6e3;
+  box-shadow: 0 2px 28px 0 #e2dacf;
   overflow: hidden;
   top: 50px;
   opacity: 0;
@@ -369,7 +369,7 @@ header
   opacity: 1;
   display: block;
   background: #011724;
-  color: #bcd6e3!important;
+  color: #e2dacf!important;
   padding-left: 20px;
   height: 40px;
   line-height: 40px;
@@ -425,7 +425,7 @@ header
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  background-color: #bcd6e3;
+  background-color: #e2dacf;
   display: block;
   position: absolute;
   width: 30px;
@@ -436,7 +436,7 @@ header
 .background-header .main-nav .menu-trigger span,
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #bcd6e3;
+  background-color: #e2dacf;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -445,7 +445,7 @@ header
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  background-color: #bcd6e3;
+  background-color: #e2dacf;
   display: block;
   position: absolute;
   width: 30px;
@@ -456,7 +456,7 @@ header
 
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #bcd6e3;
+  background-color: #e2dacf;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -497,11 +497,11 @@ header
   -ms-transform: translateY(6px) translateX(1px) rotate(45deg);
   -webkit-transform: translateY(6px) translateX(1px) rotate(45deg);
   transform: translateY(6px) translateX(1px) rotate(45deg);
-  background-color: #bcd6e3;
+  background-color: #e2dacf;
 }
 
 .background-header .main-nav .menu-trigger.active span:before {
-  background-color: #bcd6e3;
+  background-color: #e2dacf;
 }
 
 .header-area .main-nav .menu-trigger.active span:after {
@@ -509,11 +509,11 @@ header
   -ms-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   -webkit-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   transform: translateY(-6px) translateX(1px) rotate(-45deg);
-  background-color: #bcd6e3;
+  background-color: #e2dacf;
 }
 
 .background-header .main-nav .menu-trigger.active span:after {
-  background-color: #bcd6e3;
+  background-color: #e2dacf;
 }
 
 .header-area.header-sticky {
@@ -540,7 +540,7 @@ header
 
 @media (max-width: 767px) {
   .header-area .main-nav .logo {
-    color: #bcd6e3;
+    color: #e2dacf;
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
@@ -598,7 +598,7 @@ header
     padding: 0px !important;
     border: none !important;
     background: #011724 !important;
-    color: #bcd6e3 !important;
+    color: #e2dacf !important;
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
@@ -678,7 +678,7 @@ banner
 
 #top .left-content h4 {
   font-family: 'Dancing Script', cursive;
-  color: #bcd6e3;
+  color: #e2dacf;
   font-size: 54px;
   font-weight: 700;
 }
@@ -687,7 +687,7 @@ banner
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #bcd6e3;
+  color: #e2dacf;
   /* letter-spacing: 3px; */
   margin-top: 5px;
 }
@@ -1107,7 +1107,7 @@ chefs
 
 #chefs .chef-item .thumb .overlay {
   position: absolute;
-  background-color: #bcd6e3;
+  background-color: #e2dacf;
   border-radius: 3px;
   top: 0;
   bottom: 0;
@@ -1140,7 +1140,7 @@ chefs
   width: 40px;
   height: 40px;
   background-color: #020012;
-  color: #bcd6e3;
+  color: #e2dacf;
   border-radius: 50%;
   text-align: center;
   line-height: 40px;
@@ -1170,12 +1170,12 @@ chefs
   transition: all .3s;
   font-size: 20px;
   font-weight: 700;
-  color: #bcd6e3;
+  color: #e2dacf;
 }
 
 #chefs .chef-item .down-content span {
   font-size: 14px;
-  color: #bcd6e3;
+  color: #e2dacf;
 }
 
 
@@ -1233,7 +1233,7 @@ galerija
 
 #galerija .galery-item .thumb .overlay {
   position: absolute;
-  background-color: #bcd6e3;
+  background-color: #e2dacf;
   border-radius: 3px;
   top: 0;
   bottom: 0;
@@ -1266,7 +1266,7 @@ galerija
   width: 40px;
   height: 40px;
   background-color: #020012;
-  color: #bcd6e3;
+  color: #e2dacf;
   border-radius: 50%;
   text-align: center;
   line-height: 40px;
@@ -1296,12 +1296,12 @@ galerija
   transition: all .3s;
   font-size: 20px;
   font-weight: 700;
-  color: #bcd6e3;
+  color: #e2dacf;
 }
 
 #galerija .chef-item .down-content span {
   font-size: 14px;
-  color: #bcd6e3;
+  color: #e2dacf;
 }
 
 
@@ -1323,7 +1323,7 @@ reservation
 }
 
 #reservation .section-heading h2 {
-  color: #bcd6e3;
+  color: #e2dacf;
   font-weight: 700;
 }
 
@@ -1332,7 +1332,7 @@ reservation
 }
 
 #reservation p {
-  color: #bcd6e3;
+  color: #e2dacf;
   
   margin-bottom: 65px;
 }
@@ -1383,7 +1383,7 @@ reservation
 #reservation .phone span a,
 #reservation .message span a {
   font-size: 14px;
-  color: #bcd6e3;
+  color: #e2dacf;
   transition: all .3s;
 }
 
@@ -1403,7 +1403,7 @@ reservation
   text-align: center;
   font-weight: 700;
   font-size: 30px;
-  color: #bcd6e3;
+  color: #e2dacf;
   margin-bottom: 30px;
 }
 
@@ -1415,7 +1415,7 @@ reservation
 .contact-form input,
 .contact-form textarea,
 .contact-form select {
-  color: #bcd6e3;
+  color: #e2dacf;
   font-size: 14px;
   border: 1px solid #ddd;
   background-color: #020012;
@@ -1464,15 +1464,15 @@ reservation
 }
 
 .contact-form ::-webkit-input-placeholder { /* Edge */
-  color: #bcd6e3;
+  color: #e2dacf;
 }
 
 .contact-form :-ms-input-placeholder { /* Internet Explorer 10-11 */
-  color: #bcd6e3;
+  color: #e2dacf;
 }
 
 .contact-form ::placeholder {
-  color: #bcd6e3;
+  color: #e2dacf;
 }
 
 /*
@@ -1523,7 +1523,7 @@ offers
   width: 100%;
   display: inline-block;
   font-size: 15px;
-  color: #bcd6e3;
+  color: #e2dacf;
   font-weight: 600;
   transition: all 0.3s;
   text-align: center;
@@ -1538,7 +1538,7 @@ offers
   position: relative;
 }
 #offers #tabs ul .ui-tabs-active span {
-  color: #bcd6e3;
+  color: #e2dacf;
 }
 #offers .tabs-content {
   margin-top: 60px;
@@ -1561,7 +1561,7 @@ offers
   padding-top: 10px;
   font-size: 20px;
   font-weight: 700;
-  color: #bcd6e3;
+  color: #e2dacf;
   margin-bottom: 10px;
   margin-right: 100px;
 }
@@ -1657,7 +1657,7 @@ footer .right-text-content ul li a {
 }
 
 footer .right-text-content ul li a:hover {
-  color: #bcd6e3;
+  color: #e2dacf;
 }
 
 /* 
